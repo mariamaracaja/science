@@ -16,7 +16,7 @@ Everyday, the user can see a different random article about physics, mathematics
 
 ---
 
-## Installation & Setup
+## Installation
 
 1. Clone the repository:
    ```bash
